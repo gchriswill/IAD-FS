@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/gchriswill/Full Sail University/IAD1508/Delevered Assignments/iAD Lab 9/IAD_1508_Lab9_AndroidTV/app/build/intermediates/exploded-aar/com.android.support/leanback-v17/23.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="73f1099dae738216ba2af0f9efd92fec040d890f">
+        <dex dex="/Users/gchriswill/Full Sail University/IAD1508/Delevered Assignments/iAD Lab 9/IAD_1508_Lab9_AndroidTV/app/build/intermediates/pre-dexed/debug/classes-61a4e329635730f39de1ecabf53ddd1effa82ea4.jar" />
+    </item>
+    <item
+        jar="/Users/gchriswill/Full Sail University/IAD1508/Delevered Assignments/iAD Lab 9/IAD_1508_Lab9_AndroidTV/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.0/jars/libs/internal_impl-23.0.0.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="8bd336eeae661e8311330284897ee07f8ebaa297">
+        <dex dex="/Users/gchriswill/Full Sail University/IAD1508/Delevered Assignments/iAD Lab 9/IAD_1508_Lab9_AndroidTV/app/build/intermediates/pre-dexed/debug/internal_impl-23.0.0-a8c5e84ff6beef08c581785c1a254c3b03325a8c.jar" />
+    </item>
+    <item
+        jar="/Users/gchriswill/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.0.0/support-annotations-23.0.0.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="990e7f98a7bad86a40b1f0bcfeb039023afd0839">
+        <dex dex="/Users/gchriswill/Full Sail University/IAD1508/Delevered Assignments/iAD Lab 9/IAD_1508_Lab9_AndroidTV/app/build/intermediates/pre-dexed/debug/support-annotations-23.0.0-52328952244661be39a355a1fae74c51a28e0356.jar" />
+    </item>
+    <item
+        jar="/Users/gchriswill/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.3.2/d6b7f0093cec6c9faf65dbfd6a6a345d0ed25e27/picasso-2.3.2.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="d6b7f0093cec6c9faf65dbfd6a6a345d0ed25e27">
+        <dex dex="/Users/gchriswill/Full Sail University/IAD1508/Delevered Assignments/iAD Lab 9/IAD_1508_Lab9_AndroidTV/app/build/intermediates/pre-dexed/debug/picasso-2.3.2-d08426e5be1045c1e17c0ff7cd9f2645bee1039d.jar" />
+    </item>
+    <item
+        jar="/Users/gchriswill/Full Sail University/IAD1508/Delevered Assignments/iAD Lab 9/IAD_1508_Lab9_AndroidTV/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="40e7757d9b06db670062ddb3cf5b30c129b2fd8c">
+        <dex dex="/Users/gchriswill/Full Sail University/IAD1508/Delevered Assignments/iAD Lab 9/IAD_1508_Lab9_AndroidTV/app/build/intermediates/pre-dexed/debug/classes-d337c41df200234aedd50f994156d7622a3e8ae1.jar" />
+    </item>
+    <item
+        jar="/Users/gchriswill/Full Sail University/IAD1508/Delevered Assignments/iAD Lab 9/IAD_1508_Lab9_AndroidTV/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="4fcf0b1879f8caf497c073e1432d398e9e2988c1">
+        <dex dex="/Users/gchriswill/Full Sail University/IAD1508/Delevered Assignments/iAD Lab 9/IAD_1508_Lab9_AndroidTV/app/build/intermediates/pre-dexed/debug/classes-9438776249c4bad0e9900d94c14ade85e1772883.jar" />
+    </item>
+    <item
+        jar="/Users/gchriswill/Full Sail University/IAD1508/Delevered Assignments/iAD Lab 9/IAD_1508_Lab9_AndroidTV/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="8413c27b45b7fe61dca4a98159f65e2cee215f5a">
+        <dex dex="/Users/gchriswill/Full Sail University/IAD1508/Delevered Assignments/iAD Lab 9/IAD_1508_Lab9_AndroidTV/app/build/intermediates/pre-dexed/debug/classes-2960c300975fea891edb0e23c11bf49e079279f2.jar" />
+    </item>
+
+</items>

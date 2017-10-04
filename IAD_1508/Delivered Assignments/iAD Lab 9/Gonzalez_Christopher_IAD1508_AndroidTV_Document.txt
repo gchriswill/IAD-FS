@@ -1,0 +1,18 @@
+- A document describing the following files, what they do, and how they interact with the rest of the application. 
+
+
+-- CardPresenter
+	A CardPresenter is used to generate Views and bind Objects to them on demand. 
+	It contains an Image CardView.
+
+-- DetailsDescriptionPresenter
+	A presenter objects to control the display of data on screen, including media item 	details.
+
+-- MainFragment
+	Well, the main fragment due so much stuff that if I state it here it will take all 	the rest of the file space. But, I can say based on my experience on the 		modifications I made, this file controls the layout of the content media content.
+
+-- Movie
+	The movie class represents video entity with title, description, image thumbs and 	video url. 
+
+-- MovieList
+	This class holds the data of the app, which includes titles, descriptions, images, 	video source, etc. This class provide it's data on demand.

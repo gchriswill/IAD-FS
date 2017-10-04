@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>namesForImages</key>
+	<array>
+		<string>1-super_mario</string>
+		<string>2-pac_man</string>
+		<string>3-prince_of_persia</string>
+		<string>4-sub_zero</string>
+		<string>5-gordon_freeman</string>
+		<string>6-ken</string>
+		<string>7-sonic</string>
+		<string>8-lara_croft</string>
+		<string>9-kratos</string>
+		<string>10-solid_snake</string>
+	</array>
+	<key>namesForCharacters</key>
+	<array>
+		<string>Super Mario</string>
+		<string>Pac-Man</string>
+		<string>Prince Of Persia</string>
+		<string>Sub Zero</string>
+		<string>Gordon Freeman</string>
+		<string>Ken</string>
+		<string>Sonic</string>
+		<string>Lara Croft</string>
+		<string>Kratos</string>
+		<string>Solid Snake</string>
+	</array>
+</dict>
+</plist>

@@ -1,0 +1,463 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		24AF34A51ACE141100F148DE /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 24AF34A41ACE141100F148DE /* AppDelegate.m */; };
+		24AF34A71ACE141100F148DE /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 24AF34A61ACE141100F148DE /* main.m */; };
+		24AF34AA1ACE141100F148DE /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 24AF34A91ACE141100F148DE /* ViewController.m */; };
+		24AF34AC1ACE141100F148DE /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 24AF34AB1ACE141100F148DE /* Images.xcassets */; };
+		24AF34AF1ACE141100F148DE /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 24AF34AD1ACE141100F148DE /* Main.storyboard */; };
+		24AF34BB1ACE141100F148DE /* lab2ForgotMyiPadTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 24AF34BA1ACE141100F148DE /* lab2ForgotMyiPadTests.m */; };
+		24AF34C51ACE148400F148DE /* duke.png in Resources */ = {isa = PBXBuildFile; fileRef = 24AF34C41ACE148400F148DE /* duke.png */; };
+		24AF34CD1ACE14A000F148DE /* DYU.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 24AF34C71ACE14A000F148DE /* DYU.mp3 */; };
+		24AF34CE1ACE14A000F148DE /* IGBOS.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 24AF34C81ACE14A000F148DE /* IGBOS.mp3 */; };
+		24AF34CF1ACE14A000F148DE /* QWMT.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 24AF34C91ACE14A000F148DE /* QWMT.mp3 */; };
+		24AF34D01ACE14A000F148DE /* RIP.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 24AF34CA1ACE14A000F148DE /* RIP.mp3 */; };
+		24AF34D11ACE14A000F148DE /* W.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 24AF34CB1ACE14A000F148DE /* W.mp3 */; };
+		24AF34D21ACE14A000F148DE /* YKM.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 24AF34CC1ACE14A000F148DE /* YKM.mp3 */; };
+		24AF34D41ACE156500F148DE /* CoreBluetooth.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 24AF34D31ACE156500F148DE /* CoreBluetooth.framework */; };
+		24AF34D61ACE156B00F148DE /* AVFoundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 24AF34D51ACE156B00F148DE /* AVFoundation.framework */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		24AF34B51ACE141100F148DE /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 24AF34961ACE141100F148DE /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 24AF349D1ACE141100F148DE;
+			remoteInfo = lab2ForgotMyiPad;
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		24AF349E1ACE141100F148DE /* lab2ForgotMyiPad.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = lab2ForgotMyiPad.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		24AF34A21ACE141100F148DE /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		24AF34A31ACE141100F148DE /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
+		24AF34A41ACE141100F148DE /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
+		24AF34A61ACE141100F148DE /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		24AF34A81ACE141100F148DE /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
+		24AF34A91ACE141100F148DE /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
+		24AF34AB1ACE141100F148DE /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
+		24AF34AE1ACE141100F148DE /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		24AF34B41ACE141100F148DE /* lab2ForgotMyiPadTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = lab2ForgotMyiPadTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		24AF34B91ACE141100F148DE /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		24AF34BA1ACE141100F148DE /* lab2ForgotMyiPadTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = lab2ForgotMyiPadTests.m; sourceTree = "<group>"; };
+		24AF34C41ACE148400F148DE /* duke.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = duke.png; sourceTree = "<group>"; };
+		24AF34C71ACE14A000F148DE /* DYU.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = DYU.mp3; sourceTree = "<group>"; };
+		24AF34C81ACE14A000F148DE /* IGBOS.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = IGBOS.mp3; sourceTree = "<group>"; };
+		24AF34C91ACE14A000F148DE /* QWMT.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = QWMT.mp3; sourceTree = "<group>"; };
+		24AF34CA1ACE14A000F148DE /* RIP.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = RIP.mp3; sourceTree = "<group>"; };
+		24AF34CB1ACE14A000F148DE /* W.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = W.mp3; sourceTree = "<group>"; };
+		24AF34CC1ACE14A000F148DE /* YKM.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = YKM.mp3; sourceTree = "<group>"; };
+		24AF34D31ACE156500F148DE /* CoreBluetooth.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreBluetooth.framework; path = System/Library/Frameworks/CoreBluetooth.framework; sourceTree = SDKROOT; };
+		24AF34D51ACE156B00F148DE /* AVFoundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AVFoundation.framework; path = System/Library/Frameworks/AVFoundation.framework; sourceTree = SDKROOT; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		24AF349B1ACE141100F148DE /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				24AF34D61ACE156B00F148DE /* AVFoundation.framework in Frameworks */,
+				24AF34D41ACE156500F148DE /* CoreBluetooth.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		24AF34B11ACE141100F148DE /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		24AF34951ACE141100F148DE = {
+			isa = PBXGroup;
+			children = (
+				24AF34D51ACE156B00F148DE /* AVFoundation.framework */,
+				24AF34D31ACE156500F148DE /* CoreBluetooth.framework */,
+				24AF34A01ACE141100F148DE /* lab2ForgotMyiPad */,
+				24AF34B71ACE141100F148DE /* lab2ForgotMyiPadTests */,
+				24AF349F1ACE141100F148DE /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		24AF349F1ACE141100F148DE /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				24AF349E1ACE141100F148DE /* lab2ForgotMyiPad.app */,
+				24AF34B41ACE141100F148DE /* lab2ForgotMyiPadTests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		24AF34A01ACE141100F148DE /* lab2ForgotMyiPad */ = {
+			isa = PBXGroup;
+			children = (
+				24AF34C61ACE14A000F148DE /* Audio */,
+				24AF34A31ACE141100F148DE /* AppDelegate.h */,
+				24AF34A41ACE141100F148DE /* AppDelegate.m */,
+				24AF34A81ACE141100F148DE /* ViewController.h */,
+				24AF34A91ACE141100F148DE /* ViewController.m */,
+				24AF34C41ACE148400F148DE /* duke.png */,
+				24AF34AB1ACE141100F148DE /* Images.xcassets */,
+				24AF34AD1ACE141100F148DE /* Main.storyboard */,
+				24AF34A11ACE141100F148DE /* Supporting Files */,
+			);
+			path = lab2ForgotMyiPad;
+			sourceTree = "<group>";
+		};
+		24AF34A11ACE141100F148DE /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				24AF34A21ACE141100F148DE /* Info.plist */,
+				24AF34A61ACE141100F148DE /* main.m */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		24AF34B71ACE141100F148DE /* lab2ForgotMyiPadTests */ = {
+			isa = PBXGroup;
+			children = (
+				24AF34BA1ACE141100F148DE /* lab2ForgotMyiPadTests.m */,
+				24AF34B81ACE141100F148DE /* Supporting Files */,
+			);
+			path = lab2ForgotMyiPadTests;
+			sourceTree = "<group>";
+		};
+		24AF34B81ACE141100F148DE /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				24AF34B91ACE141100F148DE /* Info.plist */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		24AF34C61ACE14A000F148DE /* Audio */ = {
+			isa = PBXGroup;
+			children = (
+				24AF34C71ACE14A000F148DE /* DYU.mp3 */,
+				24AF34C81ACE14A000F148DE /* IGBOS.mp3 */,
+				24AF34C91ACE14A000F148DE /* QWMT.mp3 */,
+				24AF34CA1ACE14A000F148DE /* RIP.mp3 */,
+				24AF34CB1ACE14A000F148DE /* W.mp3 */,
+				24AF34CC1ACE14A000F148DE /* YKM.mp3 */,
+			);
+			path = Audio;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		24AF349D1ACE141100F148DE /* lab2ForgotMyiPad */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 24AF34BE1ACE141100F148DE /* Build configuration list for PBXNativeTarget "lab2ForgotMyiPad" */;
+			buildPhases = (
+				24AF349A1ACE141100F148DE /* Sources */,
+				24AF349B1ACE141100F148DE /* Frameworks */,
+				24AF349C1ACE141100F148DE /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = lab2ForgotMyiPad;
+			productName = lab2ForgotMyiPad;
+			productReference = 24AF349E1ACE141100F148DE /* lab2ForgotMyiPad.app */;
+			productType = "com.apple.product-type.application";
+		};
+		24AF34B31ACE141100F148DE /* lab2ForgotMyiPadTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 24AF34C11ACE141100F148DE /* Build configuration list for PBXNativeTarget "lab2ForgotMyiPadTests" */;
+			buildPhases = (
+				24AF34B01ACE141100F148DE /* Sources */,
+				24AF34B11ACE141100F148DE /* Frameworks */,
+				24AF34B21ACE141100F148DE /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				24AF34B61ACE141100F148DE /* PBXTargetDependency */,
+			);
+			name = lab2ForgotMyiPadTests;
+			productName = lab2ForgotMyiPadTests;
+			productReference = 24AF34B41ACE141100F148DE /* lab2ForgotMyiPadTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		24AF34961ACE141100F148DE /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0620;
+				ORGANIZATIONNAME = FullSail;
+				TargetAttributes = {
+					24AF349D1ACE141100F148DE = {
+						CreatedOnToolsVersion = 6.2;
+					};
+					24AF34B31ACE141100F148DE = {
+						CreatedOnToolsVersion = 6.2;
+						TestTargetID = 24AF349D1ACE141100F148DE;
+					};
+				};
+			};
+			buildConfigurationList = 24AF34991ACE141100F148DE /* Build configuration list for PBXProject "lab2ForgotMyiPad" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 24AF34951ACE141100F148DE;
+			productRefGroup = 24AF349F1ACE141100F148DE /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				24AF349D1ACE141100F148DE /* lab2ForgotMyiPad */,
+				24AF34B31ACE141100F148DE /* lab2ForgotMyiPadTests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		24AF349C1ACE141100F148DE /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				24AF34D21ACE14A000F148DE /* YKM.mp3 in Resources */,
+				24AF34AC1ACE141100F148DE /* Images.xcassets in Resources */,
+				24AF34AF1ACE141100F148DE /* Main.storyboard in Resources */,
+				24AF34D11ACE14A000F148DE /* W.mp3 in Resources */,
+				24AF34C51ACE148400F148DE /* duke.png in Resources */,
+				24AF34CF1ACE14A000F148DE /* QWMT.mp3 in Resources */,
+				24AF34D01ACE14A000F148DE /* RIP.mp3 in Resources */,
+				24AF34CE1ACE14A000F148DE /* IGBOS.mp3 in Resources */,
+				24AF34CD1ACE14A000F148DE /* DYU.mp3 in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		24AF34B21ACE141100F148DE /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		24AF349A1ACE141100F148DE /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				24AF34AA1ACE141100F148DE /* ViewController.m in Sources */,
+				24AF34A71ACE141100F148DE /* main.m in Sources */,
+				24AF34A51ACE141100F148DE /* AppDelegate.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		24AF34B01ACE141100F148DE /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				24AF34BB1ACE141100F148DE /* lab2ForgotMyiPadTests.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		24AF34B61ACE141100F148DE /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 24AF349D1ACE141100F148DE /* lab2ForgotMyiPad */;
+			targetProxy = 24AF34B51ACE141100F148DE /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin PBXVariantGroup section */
+		24AF34AD1ACE141100F148DE /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				24AF34AE1ACE141100F148DE /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		24AF34BC1ACE141100F148DE /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGN_IDENTITY = "-";
+				COPY_PHASE_STRIP = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				MACOSX_DEPLOYMENT_TARGET = 10.10;
+				MTL_ENABLE_DEBUG_INFO = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = macosx;
+			};
+			name = Debug;
+		};
+		24AF34BD1ACE141100F148DE /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGN_IDENTITY = "-";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				MACOSX_DEPLOYMENT_TARGET = 10.10;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				SDKROOT = macosx;
+			};
+			name = Release;
+		};
+		24AF34BF1ACE141100F148DE /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				COMBINE_HIDPI_IMAGES = YES;
+				INFOPLIST_FILE = lab2ForgotMyiPad/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/../Frameworks";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		24AF34C01ACE141100F148DE /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				COMBINE_HIDPI_IMAGES = YES;
+				INFOPLIST_FILE = lab2ForgotMyiPad/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/../Frameworks";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+		24AF34C21ACE141100F148DE /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				COMBINE_HIDPI_IMAGES = YES;
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(DEVELOPER_FRAMEWORKS_DIR)",
+					"$(inherited)",
+				);
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				INFOPLIST_FILE = lab2ForgotMyiPadTests/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/../Frameworks @loader_path/../Frameworks";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/lab2ForgotMyiPad.app/Contents/MacOS/lab2ForgotMyiPad";
+			};
+			name = Debug;
+		};
+		24AF34C31ACE141100F148DE /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				COMBINE_HIDPI_IMAGES = YES;
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(DEVELOPER_FRAMEWORKS_DIR)",
+					"$(inherited)",
+				);
+				INFOPLIST_FILE = lab2ForgotMyiPadTests/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/../Frameworks @loader_path/../Frameworks";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/lab2ForgotMyiPad.app/Contents/MacOS/lab2ForgotMyiPad";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		24AF34991ACE141100F148DE /* Build configuration list for PBXProject "lab2ForgotMyiPad" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				24AF34BC1ACE141100F148DE /* Debug */,
+				24AF34BD1ACE141100F148DE /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		24AF34BE1ACE141100F148DE /* Build configuration list for PBXNativeTarget "lab2ForgotMyiPad" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				24AF34BF1ACE141100F148DE /* Debug */,
+				24AF34C01ACE141100F148DE /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+		24AF34C11ACE141100F148DE /* Build configuration list for PBXNativeTarget "lab2ForgotMyiPadTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				24AF34C21ACE141100F148DE /* Debug */,
+				24AF34C31ACE141100F148DE /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 24AF34961ACE141100F148DE /* Project object */;
+}

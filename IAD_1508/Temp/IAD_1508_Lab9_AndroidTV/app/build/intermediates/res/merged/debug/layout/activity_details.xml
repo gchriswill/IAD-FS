@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<fragment xmlns:android="http://schemas.android.com/apk/res/android"
+          xmlns:tools="http://schemas.android.com/tools"
+          android:id="@+id/details_fragment"
+          android:name="gchriswill.me.iad_1508_lab9_androidtv.VideoDetailsFragment"
+          android:layout_width="match_parent"
+          android:layout_height="match_parent"
+          tools:context=".DetailsActivity"
+          tools:deviceIds="tv"/>
+<!-- From: file:/Users/gchriswill/Desktop/IAD1508/IAD_1508_Lab9_AndroidTV/app/src/main/res/layout/activity_details.xml -->

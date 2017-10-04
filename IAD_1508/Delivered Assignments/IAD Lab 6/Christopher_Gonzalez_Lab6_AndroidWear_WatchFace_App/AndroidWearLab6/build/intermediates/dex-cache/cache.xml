@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/gchriswill/Downloads/AndroidWearLab6/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c5cafb324568d954780abb858c25db7ce675ab3c">
+        <dex dex="/Users/gchriswill/Downloads/AndroidWearLab6/app/build/intermediates/pre-dexed/debug/classes-deb69d1d1d043847a535761b92cea465727b8932.jar" />
+    </item>
+    <item
+        jar="/Users/gchriswill/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/22.2.0/support-annotations-22.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
+        <dex dex="/Users/gchriswill/Downloads/AndroidWearLab6/app/build/intermediates/pre-dexed/debug/support-annotations-22.2.0-5af8685a6e9035fed3810412df0d36a273b84fbc.jar" />
+    </item>
+    <item
+        jar="/Users/gchriswill/Downloads/AndroidWearLab6/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c0c912d58c9468b1f9d9769c8975afdf2c85d681">
+        <dex dex="/Users/gchriswill/Downloads/AndroidWearLab6/app/build/intermediates/pre-dexed/debug/classes-6767e0cdc8096f015230a68d52047e4e116dbe1f.jar" />
+    </item>
+    <item
+        jar="/Users/gchriswill/Downloads/AndroidWearLab6/app/build/intermediates/exploded-aar/com.google.android.support/wearable/1.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="0e239b45d3b94ac3d759405a9c5fd1f88e53913b">
+        <dex dex="/Users/gchriswill/Downloads/AndroidWearLab6/app/build/intermediates/pre-dexed/debug/classes-d393dda26ba53104e74ec0ebd9d7f93b07f1ae30.jar" />
+    </item>
+    <item
+        jar="/Users/gchriswill/Downloads/AndroidWearLab6/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/jars/libs/internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="/Users/gchriswill/Downloads/AndroidWearLab6/app/build/intermediates/pre-dexed/debug/internal_impl-22.2.0-5357f3640036d408b88234c0f5d8d6c7bd60688d.jar" />
+    </item>
+    <item
+        jar="/Users/gchriswill/Downloads/AndroidWearLab6/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="/Users/gchriswill/Downloads/AndroidWearLab6/app/build/intermediates/pre-dexed/debug/classes-26a2aa7aa98a912e21ebe66e3a02159e5ce988df.jar" />
+    </item>
+    <item
+        jar="/Users/gchriswill/Downloads/AndroidWearLab6/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/22.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c6d79137693d494dee16372d3921f919eb724ced">
+        <dex dex="/Users/gchriswill/Downloads/AndroidWearLab6/app/build/intermediates/pre-dexed/debug/classes-b70463810b65ca47a24d08f4e379f671075996eb.jar" />
+    </item>
+
+</items>

@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Scheme
+   LastUpgradeVersion = "0640"
+   version = "1.3">
+   <BuildAction
+      parallelizeBuildables = "YES"
+      buildImplicitDependencies = "YES">
+      <BuildActionEntries>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "YES"
+            buildForProfiling = "YES"
+            buildForArchiving = "YES"
+            buildForAnalyzing = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "D94E8FD01B833DC0008B31F6"
+               BuildableName = "toptenchar WatchKit App.app"
+               BlueprintName = "toptenchar WatchKit App"
+               ReferencedContainer = "container:toptenchar.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "YES"
+            buildForProfiling = "YES"
+            buildForArchiving = "YES"
+            buildForAnalyzing = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "D94E8FC61B833DC0008B31F6"
+               BuildableName = "toptenchar WatchKit Extension.appex"
+               BlueprintName = "toptenchar WatchKit Extension"
+               ReferencedContainer = "container:toptenchar.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "YES"
+            buildForProfiling = "YES"
+            buildForArchiving = "YES"
+            buildForAnalyzing = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "D9E7B4FA1B8032040048DB6F"
+               BuildableName = "toptenchar.app"
+               BlueprintName = "toptenchar"
+               ReferencedContainer = "container:toptenchar.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+      </BuildActionEntries>
+   </BuildAction>
+   <TestAction
+      selectedDebuggerIdentifier = "Xcode.DebuggerFoundation.Debugger.LLDB"
+      selectedLauncherIdentifier = "Xcode.DebuggerFoundation.Launcher.LLDB"
+      shouldUseLaunchSchemeArgsEnv = "YES"
+      buildConfiguration = "Debug">
+      <Testables>
+      </Testables>
+      <MacroExpansion>
+         <BuildableReference
+            BuildableIdentifier = "primary"
+            BlueprintIdentifier = "D94E8FD01B833DC0008B31F6"
+            BuildableName = "toptenchar WatchKit App.app"
+            BlueprintName = "toptenchar WatchKit App"
+            ReferencedContainer = "container:toptenchar.xcodeproj">
+         </BuildableReference>
+      </MacroExpansion>
+   </TestAction>
+   <LaunchAction
+      selectedDebuggerIdentifier = "Xcode.DebuggerFoundation.Debugger.LLDB"
+      selectedLauncherIdentifier = "Xcode.DebuggerFoundation.Launcher.LLDB"
+      launchStyle = "0"
+      useCustomWorkingDirectory = "NO"
+      buildConfiguration = "Debug"
+      ignoresPersistentStateOnLaunch = "NO"
+      debugDocumentVersioning = "YES"
+      allowLocationSimulation = "YES">
+      <RemoteRunnable
+         runnableDebuggingMode = "2"
+         BundleIdentifier = "com.apple.springboard"
+         RemotePath = "/toptenchar">
+         <BuildableReference
+            BuildableIdentifier = "primary"
+            BlueprintIdentifier = "D94E8FD01B833DC0008B31F6"
+            BuildableName = "toptenchar WatchKit App.app"
+            BlueprintName = "toptenchar WatchKit App"
+            ReferencedContainer = "container:toptenchar.xcodeproj">
+         </BuildableReference>
+      </RemoteRunnable>
+      <MacroExpansion>
+         <BuildableReference
+            BuildableIdentifier = "primary"
+            BlueprintIdentifier = "D94E8FD01B833DC0008B31F6"
+            BuildableName = "toptenchar WatchKit App.app"
+            BlueprintName = "toptenchar WatchKit App"
+            ReferencedContainer = "container:toptenchar.xcodeproj">
+         </BuildableReference>
+      </MacroExpansion>
+      <AdditionalOptions>
+      </AdditionalOptions>
+   </LaunchAction>
+   <ProfileAction
+      shouldUseLaunchSchemeArgsEnv = "YES"
+      savedToolIdentifier = ""
+      useCustomWorkingDirectory = "NO"
+      buildConfiguration = "Release"
+      debugDocumentVersioning = "YES">
+      <RemoteRunnable
+         runnableDebuggingMode = "2"
+         BundleIdentifier = "com.apple.springboard"
+         RemotePath = "/toptenchar">
+         <BuildableReference
+            BuildableIdentifier = "primary"
+            BlueprintIdentifier = "D94E8FD01B833DC0008B31F6"
+            BuildableName = "toptenchar WatchKit App.app"
+            BlueprintName = "toptenchar WatchKit App"
+            ReferencedContainer = "container:toptenchar.xcodeproj">
+         </BuildableReference>
+      </RemoteRunnable>
+      <MacroExpansion>
+         <BuildableReference
+            BuildableIdentifier = "primary"
+            BlueprintIdentifier = "D94E8FD01B833DC0008B31F6"
+            BuildableName = "toptenchar WatchKit App.app"
+            BlueprintName = "toptenchar WatchKit App"
+            ReferencedContainer = "container:toptenchar.xcodeproj">
+         </BuildableReference>
+      </MacroExpansion>
+   </ProfileAction>
+   <AnalyzeAction
+      buildConfiguration = "Debug">
+   </AnalyzeAction>
+   <ArchiveAction
+      buildConfiguration = "Release"
+      revealArchiveInOrganizer = "YES">
+   </ArchiveAction>
+</Scheme>

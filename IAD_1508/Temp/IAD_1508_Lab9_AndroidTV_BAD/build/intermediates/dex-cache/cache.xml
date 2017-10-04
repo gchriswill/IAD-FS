@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/gchriswill/Desktop/IAD_1508_Lab9_AndroidTV/app/build/intermediates/exploded-aar/com.android.support/leanback-v17/23.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="73f1099dae738216ba2af0f9efd92fec040d890f">
+        <dex dex="/Users/gchriswill/Desktop/IAD_1508_Lab9_AndroidTV/app/build/intermediates/pre-dexed/debug/classes-d45723084363e4b4fd6a9c8d35cc6ea849090eb0.jar" />
+    </item>
+    <item
+        jar="/Users/gchriswill/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.0.0/support-annotations-23.0.0.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="990e7f98a7bad86a40b1f0bcfeb039023afd0839">
+        <dex dex="/Users/gchriswill/Desktop/IAD_1508_Lab9_AndroidTV/app/build/intermediates/pre-dexed/debug/support-annotations-23.0.0-52328952244661be39a355a1fae74c51a28e0356.jar" />
+    </item>
+    <item
+        jar="/Users/gchriswill/Desktop/IAD_1508_Lab9_AndroidTV/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="40e7757d9b06db670062ddb3cf5b30c129b2fd8c">
+        <dex dex="/Users/gchriswill/Desktop/IAD_1508_Lab9_AndroidTV/app/build/intermediates/pre-dexed/debug/classes-e98d700ca903408e45de918d9301285d197ee90c.jar" />
+    </item>
+    <item
+        jar="/Users/gchriswill/Desktop/IAD_1508_Lab9_AndroidTV/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="4fcf0b1879f8caf497c073e1432d398e9e2988c1">
+        <dex dex="/Users/gchriswill/Desktop/IAD_1508_Lab9_AndroidTV/app/build/intermediates/pre-dexed/debug/classes-b67d91dc9c97274725e7554db40be73b3ecaa906.jar" />
+    </item>
+    <item
+        jar="/Users/gchriswill/Desktop/IAD_1508_Lab9_AndroidTV/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="8413c27b45b7fe61dca4a98159f65e2cee215f5a">
+        <dex dex="/Users/gchriswill/Desktop/IAD_1508_Lab9_AndroidTV/app/build/intermediates/pre-dexed/debug/classes-023a11fd6829cf2d3f288598511ae70c3c067988.jar" />
+    </item>
+    <item
+        jar="/Users/gchriswill/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.3.2/d6b7f0093cec6c9faf65dbfd6a6a345d0ed25e27/picasso-2.3.2.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="d6b7f0093cec6c9faf65dbfd6a6a345d0ed25e27">
+        <dex dex="/Users/gchriswill/Desktop/IAD_1508_Lab9_AndroidTV/app/build/intermediates/pre-dexed/debug/picasso-2.3.2-d08426e5be1045c1e17c0ff7cd9f2645bee1039d.jar" />
+    </item>
+    <item
+        jar="/Users/gchriswill/Desktop/IAD_1508_Lab9_AndroidTV/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.0/jars/libs/internal_impl-23.0.0.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="8bd336eeae661e8311330284897ee07f8ebaa297">
+        <dex dex="/Users/gchriswill/Desktop/IAD_1508_Lab9_AndroidTV/app/build/intermediates/pre-dexed/debug/internal_impl-23.0.0-a3c55bf916e66ac7da31e3f6ef743f5bfa6b5ae4.jar" />
+    </item>
+
+</items>

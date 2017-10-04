@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/gchriswill/Desktop/WatchFace/Application/build/intermediates/exploded-aar/com.android.support/support-v4/22.1.0/jars/libs/internal_impl-22.1.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="025cb89f2896c63200ff4c2e6c467a95691d880a">
+        <dex dex="/Users/gchriswill/Desktop/WatchFace/Application/build/intermediates/pre-dexed/debug/internal_impl-22.1.0-eef9d224506b8c760223ba94b6a5cd8879d76887.jar" />
+    </item>
+    <item
+        jar="/Users/gchriswill/Desktop/WatchFace/Application/build/intermediates/exploded-aar/com.google.android.support/wearable/1.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="27f19641b81b1078e653d2f0e5d1ed44d158a785">
+        <dex dex="/Users/gchriswill/Desktop/WatchFace/Application/build/intermediates/pre-dexed/debug/classes-6daef1a75d6b79bd7cc79d9f3d28f29294059154.jar" />
+    </item>
+    <item
+        jar="/Users/gchriswill/Desktop/WatchFace/Application/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/7.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="e5bf453b070c1e39297986144960e45afa0fdfad">
+        <dex dex="/Users/gchriswill/Desktop/WatchFace/Application/build/intermediates/pre-dexed/debug/classes-c069337971bef5447ffc904b70171c85491a73c0.jar" />
+    </item>
+    <item
+        jar="/Users/gchriswill/Desktop/WatchFace/Application/build/intermediates/exploded-aar/com.android.support/cardview-v7/21.0.2/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="b017100da14f9c158c9f5f2f508333c224b24a7c">
+        <dex dex="/Users/gchriswill/Desktop/WatchFace/Application/build/intermediates/pre-dexed/debug/classes-592302542db71caf3644ccbbc1b4c58227bf994b.jar" />
+    </item>
+    <item
+        jar="/Users/gchriswill/Desktop/WatchFace/Application/build/intermediates/exploded-aar/com.android.support/support-v13/22.1.0/jars/libs/internal_impl-22.1.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="50c645d80504c40e34e6bb88360b9a5c1df99b0b">
+        <dex dex="/Users/gchriswill/Desktop/WatchFace/Application/build/intermediates/pre-dexed/debug/internal_impl-22.1.0-0130acd27c1c4e3440a4e098911d2b4d4094c94e.jar" />
+    </item>
+    <item
+        jar="/Users/gchriswill/Desktop/WatchFace/Application/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="f2f7ec211ce4d244ee97a57523eeb4526dc3cf8a">
+        <dex dex="/Users/gchriswill/Desktop/WatchFace/Application/build/intermediates/pre-dexed/debug/classes-6888b6d8a53cd075ccbc3cfe7496217a94535507.jar" />
+    </item>
+    <item
+        jar="/Users/gchriswill/Desktop/WatchFace/Application/build/intermediates/exploded-aar/com.android.support/support-v13/22.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="b6f3fd41dae8c43531192af02ddf5429a1c44446">
+        <dex dex="/Users/gchriswill/Desktop/WatchFace/Application/build/intermediates/pre-dexed/debug/classes-679e2eb7d3faff52638577c8df4db57fbf17ece7.jar" />
+    </item>
+    <item
+        jar="/Users/gchriswill/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/22.1.0/support-annotations-22.1.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="281bc6c58ecb3644c23fbc5ee0452019f67b4d5d">
+        <dex dex="/Users/gchriswill/Desktop/WatchFace/Application/build/intermediates/pre-dexed/debug/support-annotations-22.1.0-5f1d3b52cbf23e55e281b8fbde3b490eefac3402.jar" />
+    </item>
+    <item
+        jar="/Users/gchriswill/Desktop/WatchFace/Application/build/intermediates/exploded-aar/com.android.support/support-v4/22.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="eeebabdfd8203f6ab639ccea4ffa1f20e1adee3a">
+        <dex dex="/Users/gchriswill/Desktop/WatchFace/Application/build/intermediates/pre-dexed/debug/classes-70ea13b6f650941d07254d86a458683b33aa6f32.jar" />
+    </item>
+    <item
+        jar="/Users/gchriswill/Desktop/WatchFace/Application/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/21.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="efeda77c808750cb670ee9c48d8a1835d89dbcb2">
+        <dex dex="/Users/gchriswill/Desktop/WatchFace/Application/build/intermediates/pre-dexed/debug/classes-41947df0b40465e2b07f544bc852fb4fbaeb4f29.jar" />
+    </item>
+
+</items>

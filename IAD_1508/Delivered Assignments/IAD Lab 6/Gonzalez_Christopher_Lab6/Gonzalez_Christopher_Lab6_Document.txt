@@ -1,0 +1,20 @@
+- A document describing the following methods, what they do, and how they interact with the rest of the application.
+
+In the Engine class
+-- onCreate
+----- The method that get called for the creation of the activity.
+----- This place is for initializing the watch face elements for the Engine.
+
+-- registerReceiver
+----- This method registers the receiver for time zone changes and starts the custom timer if the device is in interactive mode.
+
+-- onDraw
+----- This method is called when the system needs to draww a watch face.
+----- Here is where background must be scaled to fit, perform any required graphic computations and Draw watch background bitmap on the canvas.----- Also, check if the device is in ambient mode or interactive mode.
+
+-- onAmbientModeChanged
+----- The system calls this method when switch between modes
+
+In the Engine Handler class
+-- handleMessage
+----- This is the handler that updates the time once a second in interactive mode.

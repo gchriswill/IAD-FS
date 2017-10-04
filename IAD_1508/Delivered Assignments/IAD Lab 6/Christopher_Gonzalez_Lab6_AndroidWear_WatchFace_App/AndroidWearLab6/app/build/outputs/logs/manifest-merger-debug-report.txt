@@ -1,0 +1,106 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/gchriswill/Downloads/AndroidWearLab6/app/src/main/AndroidManifest.xml:2:1-42:12
+	package
+		ADDED from /Users/gchriswill/Downloads/AndroidWearLab6/app/src/main/AndroidManifest.xml:3:5-53
+		INJECTED from /Users/gchriswill/Downloads/AndroidWearLab6/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/gchriswill/Downloads/AndroidWearLab6/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/gchriswill/Downloads/AndroidWearLab6/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/gchriswill/Downloads/AndroidWearLab6/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/gchriswill/Downloads/AndroidWearLab6/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from /Users/gchriswill/Downloads/AndroidWearLab6/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/gchriswill/Downloads/AndroidWearLab6/app/src/main/AndroidManifest.xml
+uses-feature#android.hardware.type.watch
+ADDED from /Users/gchriswill/Downloads/AndroidWearLab6/app/src/main/AndroidManifest.xml:5:5-64
+	android:name
+		ADDED from /Users/gchriswill/Downloads/AndroidWearLab6/app/src/main/AndroidManifest.xml:5:19-61
+uses-permission#com.google.android.permission.PROVIDE_BACKGROUND
+ADDED from /Users/gchriswill/Downloads/AndroidWearLab6/app/src/main/AndroidManifest.xml:8:5-88
+	android:name
+		ADDED from /Users/gchriswill/Downloads/AndroidWearLab6/app/src/main/AndroidManifest.xml:8:22-85
+uses-permission#android.permission.WAKE_LOCK
+ADDED from /Users/gchriswill/Downloads/AndroidWearLab6/app/src/main/AndroidManifest.xml:9:5-68
+	android:name
+		ADDED from /Users/gchriswill/Downloads/AndroidWearLab6/app/src/main/AndroidManifest.xml:9:22-65
+application
+ADDED from /Users/gchriswill/Downloads/AndroidWearLab6/app/src/main/AndroidManifest.xml:11:5-39:19
+MERGED from [com.google.android.support:wearable:1.2.0] /Users/gchriswill/Downloads/AndroidWearLab6/app/build/intermediates/exploded-aar/com.google.android.support/wearable/1.2.0/AndroidManifest.xml:8:5-20
+MERGED from [com.android.support:recyclerview-v7:22.0.0] /Users/gchriswill/Downloads/AndroidWearLab6/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/22.0.0/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-v4:22.2.0] /Users/gchriswill/Downloads/AndroidWearLab6/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:22.2.0] /Users/gchriswill/Downloads/AndroidWearLab6/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-wearable:7.8.0] /Users/gchriswill/Downloads/AndroidWearLab6/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/7.8.0/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-base:7.8.0] /Users/gchriswill/Downloads/AndroidWearLab6/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.8.0/AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:22.2.0] /Users/gchriswill/Downloads/AndroidWearLab6/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/AndroidManifest.xml:22:5-20
+	android:label
+		ADDED from /Users/gchriswill/Downloads/AndroidWearLab6/app/src/main/AndroidManifest.xml:14:9-45
+	android:allowBackup
+		ADDED from /Users/gchriswill/Downloads/AndroidWearLab6/app/src/main/AndroidManifest.xml:12:9-35
+	android:icon
+		ADDED from /Users/gchriswill/Downloads/AndroidWearLab6/app/src/main/AndroidManifest.xml:13:9-43
+service#com.example.gchriswill.androidwearlab6.Christopher
+ADDED from /Users/gchriswill/Downloads/AndroidWearLab6/app/src/main/AndroidManifest.xml:15:9-34:19
+	android:label
+		ADDED from /Users/gchriswill/Downloads/AndroidWearLab6/app/src/main/AndroidManifest.xml:17:13-49
+	android:permission
+		ADDED from /Users/gchriswill/Downloads/AndroidWearLab6/app/src/main/AndroidManifest.xml:18:13-67
+	android:name
+		ADDED from /Users/gchriswill/Downloads/AndroidWearLab6/app/src/main/AndroidManifest.xml:16:13-40
+meta-data#android.service.wallpaper
+ADDED from /Users/gchriswill/Downloads/AndroidWearLab6/app/src/main/AndroidManifest.xml:19:13-21:54
+	android:resource
+		ADDED from /Users/gchriswill/Downloads/AndroidWearLab6/app/src/main/AndroidManifest.xml:21:17-51
+	android:name
+		ADDED from /Users/gchriswill/Downloads/AndroidWearLab6/app/src/main/AndroidManifest.xml:20:17-57
+meta-data#com.google.android.wearable.watchface.preview
+ADDED from /Users/gchriswill/Downloads/AndroidWearLab6/app/src/main/AndroidManifest.xml:22:13-24:63
+	android:resource
+		ADDED from /Users/gchriswill/Downloads/AndroidWearLab6/app/src/main/AndroidManifest.xml:24:17-60
+	android:name
+		ADDED from /Users/gchriswill/Downloads/AndroidWearLab6/app/src/main/AndroidManifest.xml:23:17-77
+meta-data#com.google.android.wearable.watchface.preview_circular
+ADDED from /Users/gchriswill/Downloads/AndroidWearLab6/app/src/main/AndroidManifest.xml:25:13-27:69
+	android:resource
+		ADDED from /Users/gchriswill/Downloads/AndroidWearLab6/app/src/main/AndroidManifest.xml:27:17-66
+	android:name
+		ADDED from /Users/gchriswill/Downloads/AndroidWearLab6/app/src/main/AndroidManifest.xml:26:17-86
+intent-filter#android.service.wallpaper.WallpaperService+com.google.android.wearable.watchface.category.WATCH_FACE
+ADDED from /Users/gchriswill/Downloads/AndroidWearLab6/app/src/main/AndroidManifest.xml:29:13-33:29
+action#android.service.wallpaper.WallpaperService
+ADDED from /Users/gchriswill/Downloads/AndroidWearLab6/app/src/main/AndroidManifest.xml:30:17-85
+	android:name
+		ADDED from /Users/gchriswill/Downloads/AndroidWearLab6/app/src/main/AndroidManifest.xml:30:25-82
+category#com.google.android.wearable.watchface.category.WATCH_FACE
+ADDED from /Users/gchriswill/Downloads/AndroidWearLab6/app/src/main/AndroidManifest.xml:32:17-102
+	android:name
+		ADDED from /Users/gchriswill/Downloads/AndroidWearLab6/app/src/main/AndroidManifest.xml:32:27-99
+meta-data#com.google.android.gms.version
+ADDED from /Users/gchriswill/Downloads/AndroidWearLab6/app/src/main/AndroidManifest.xml:36:9-38:69
+MERGED from [com.google.android.gms:play-services-base:7.8.0] /Users/gchriswill/Downloads/AndroidWearLab6/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.8.0/AndroidManifest.xml:21:9-23:69
+	android:value
+		ADDED from /Users/gchriswill/Downloads/AndroidWearLab6/app/src/main/AndroidManifest.xml:38:13-66
+	android:name
+		ADDED from /Users/gchriswill/Downloads/AndroidWearLab6/app/src/main/AndroidManifest.xml:37:13-58
+uses-sdk
+INJECTED from /Users/gchriswill/Downloads/AndroidWearLab6/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.google.android.support:wearable:1.2.0] /Users/gchriswill/Downloads/AndroidWearLab6/app/build/intermediates/exploded-aar/com.google.android.support/wearable/1.2.0/AndroidManifest.xml:4:5-6:41
+MERGED from [com.android.support:recyclerview-v7:22.0.0] /Users/gchriswill/Downloads/AndroidWearLab6/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/22.0.0/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:22.2.0] /Users/gchriswill/Downloads/AndroidWearLab6/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:22.2.0] /Users/gchriswill/Downloads/AndroidWearLab6/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-wearable:7.8.0] /Users/gchriswill/Downloads/AndroidWearLab6/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/7.8.0/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-base:7.8.0] /Users/gchriswill/Downloads/AndroidWearLab6/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.8.0/AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:22.2.0] /Users/gchriswill/Downloads/AndroidWearLab6/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/AndroidManifest.xml:20:5-43
+	android:targetSdkVersion
+		INJECTED from /Users/gchriswill/Downloads/AndroidWearLab6/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/gchriswill/Downloads/AndroidWearLab6/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/gchriswill/Downloads/AndroidWearLab6/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/gchriswill/Downloads/AndroidWearLab6/app/src/main/AndroidManifest.xml
+activity#android.support.v7.widget.TestActivity
+ADDED from [com.android.support:recyclerview-v7:22.0.0] /Users/gchriswill/Downloads/AndroidWearLab6/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/22.0.0/AndroidManifest.xml:23:9-25:56
+	android:label
+		ADDED from [com.android.support:recyclerview-v7:22.0.0] /Users/gchriswill/Downloads/AndroidWearLab6/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/22.0.0/AndroidManifest.xml:25:13-53
+	android:name
+		ADDED from [com.android.support:recyclerview-v7:22.0.0] /Users/gchriswill/Downloads/AndroidWearLab6/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/22.0.0/AndroidManifest.xml:24:13-66
